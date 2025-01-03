@@ -31,4 +31,9 @@ within the interval indicated by the input parameter phibinterval.
 
 ## How to use
 
-Run each file **figFX.m** to plot Figure FX from the Supplemental Material file. These routines call the functions **findturningpoints.m** and **findsteadystates.m** for the theoretical calculations. 
+Run each file **figFX.m** to plot Figure FX from the Supplemental Material file. These routines call the functions **findturningpoints.m** and **findsteadystates.m** for the theoretical calculations.
+
+## How to cite
+
+Oleg Mikhajlov, Ram M. Adar, Maria Tătulea-Codrean, Anne-Sophie Macé, John Manzi, Fanny Tabarin, Aude Battistella, Fahima di Federico, Jean-François Joanny, Guy Tran van Nhieu, Patricia Bassereau. Cell adhesion and spreading on fluid membranes through microtubules-dependent mechanotransduction. github.com/MariaTatuleaCodrean/Cell-adhesion-theory, DOI: 10.5281/zenodo.14591503, 2025.
+<a href="https://doi.org/10.5281/zenodo.14591502"><img src="https://zenodo.org/badge/836885589.svg" alt="DOI"></a>
